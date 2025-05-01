@@ -15,4 +15,9 @@ public class HelloController {
         return "welcome Amazon";
     }
 
+    @GetMapping("/jenkins")
+    public String jenkin(){
+        return "Welcome Jenkin";
+    }
+
 }
