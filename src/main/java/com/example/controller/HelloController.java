@@ -32,5 +32,4 @@ public class HelloController {
         return "Aws Amazon";
     }
 
->>>>>>> d3b16c1085a234413305b601f5723a4d928e1e7b
 }
