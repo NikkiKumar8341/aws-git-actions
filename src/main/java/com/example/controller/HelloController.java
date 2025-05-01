@@ -20,4 +20,9 @@ public class HelloController {
         return "Welcome Jenkin";
     }
 
+    @GetMapping("/aws")
+    public String aws(){
+        return "Aws Amazon";
+    }
+
 }
